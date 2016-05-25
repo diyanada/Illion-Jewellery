@@ -1,0 +1,104 @@
+/*
+        Diyanada J. Gunawardena
+ 	diyanada@gmail.com
+*/
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+   color: #969696;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color: #969696;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color: #969696;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: #969696;
+}
+
+input.inputTB {
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+  width: 764px;
+  font-size:25px;
+  font-family:Verdana, Geneva, sans-serif;
+}
+select.inputTB {
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+  width: 794px;
+  font-size:25px;
+  font-family:Verdana, Geneva, sans-serif;
+  color: #969696;
+}
+select option{
+  color: #000;
+}
+textarea.inputTB {
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+  width: 764px;
+  max-width: 764px;
+  font-size:25px;
+  font-family:Verdana, Geneva, sans-serif;
+  overflow-y: visible;
+}
+input[type="submit"].inputTB, .submit {
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+  width: 794px;
+  font-size:25px;
+}
+input.inputTB:focus,
+input.inputTB.focus,
+select.inputTB:focus,
+select.inputTB.focus,
+textarea.inputTB:focus,
+textarea.inputTB.focus {
+  border: solid 5px #969696;
+}
+
+.er_line{
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:10px;
+    font-style:italic;
+    color:#FF0000;
+}
+
+.resoult{
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:15px;
+    font-style:italic;
+    color:#FF0000;
+    padding-bottom: 50px;
+}
+table.inputTB{
+    padding-top: 50px;
+}
+.topic{
+   font-family:Verdana, Geneva, sans-serif;
+   font-size:20px;
+   font-style:italic;
+   text-align: center;
+   height: 80px;
+   color:#DCDCDC;
+}
+
+div.inputTB{
+   
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+  width: 764px;
+  height: 350px;
+  overflow: scroll;
+  font-size:25px;
+  font-family:Verdana, Geneva, sans-serif;
+  margin-bottom: 50px;
+  margin-top: 2px;
+}
+
+

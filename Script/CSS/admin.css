@@ -1,0 +1,59 @@
+/*
+        Diyanada J. Gunawardena
+ 	diyanada@gmail.com
+*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    background-color: #f1f1f1;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    height: 25px;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+    border: solid 0px #c9c9c9;
+    border-bottom-width: 1px;
+    
+}
+
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+.left{
+    float: left;
+}
+
+.admin_nav{
+    background-color: #f1f1f1;
+}
+
+.clear{
+    clear:  left;
+}
+.container{
+    width: calc(100% - 275px);
+    padding-left: 20px;
+    border: solid 0px #c9c9c9;
+    border-left-width: 4px;
+    background-color: #ffffff;
+}
+.admin_body{
+    
+    width: calc(100% - 7px); 
+    border: solid 0px #c9c9c9;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-bottom-width: 4px;
+    overflow-y: auto;
+    display:  inline-block;
+    background-color: #f1f1f1;
+}

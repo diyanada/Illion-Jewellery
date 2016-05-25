@@ -1,0 +1,47 @@
+/*
+        Diyanada J. Gunawardena
+ 	diyanada@gmail.com
+*/
+
+
+.image_logo{
+    width: 120px;
+    height: 70px;
+    border: solid 0px #c9c9c9;
+    border-right-width: 4px;
+    float: left;
+    padding-left: 65px;
+    padding-right: 65px;
+}
+.nav_btn{
+    width: 120px;
+    height: 70px;
+    border: solid 0px #c9c9c9;
+    border-left-width: 4px;
+    font-size:12px;
+    float: right;
+    background-color: #f1f1f1;
+}
+
+.nav_div{
+    width: calc(100% - 7px); 
+    padding-bottom: 0px;
+    border: solid 4px #c9c9c9;
+    position: relative;
+    overflow-y: auto;
+}
+#centered {
+    position: fixed; /* or absolute */
+    top: 20%;
+    left: 20%;
+    width: 60%;
+    height: 60%;
+}
+.footer{
+    width: calc(100% - 7px); 
+    text-align: center;
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:10px;
+    font-style:italic;
+    clear: left;
+}

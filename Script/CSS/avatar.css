@@ -1,0 +1,30 @@
+/*
+        Diyanada J. Gunawardena
+ 	diyanada@gmail.com
+*/
+
+#imgcon {
+    border: solid 5px #c9c9c9;
+    transition: border 0.3s;
+    width: 500px;
+    margin-left: 145px;
+}
+#imgconitem {
+    border: solid 5px #c9c9c9;
+    transition: border 0.3s;
+    width: 400px;
+    height: 300px;
+    margin-left: 195px;
+}
+
+#imgconitemfull {
+    border: solid 5px #c9c9c9;
+    transition: border 0.3s;
+    width: 784px;
+    height: 588px;
+}
+#image{
+    max-width: 100%;
+    max-height: 100%;
+    
+}

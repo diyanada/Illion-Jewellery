@@ -1,0 +1,59 @@
+/*
+        Diyanada J. Gunawardena
+ 	diyanada@gmail.com
+*/
+
+.InvoiceTable{
+    margin-top: 50px;
+    border: 2px solid #c9c9c9;
+    width: 800px;
+    max-width: 800px;
+    font-size:25px;
+    font-family:Verdana, Geneva, sans-serif;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.BillTable{
+    margin-top: 50px;
+    border: 2px solid #c9c9c9;
+    width: 730px;
+    max-width: 730px;
+    font-size:15px;
+    font-family:Verdana, Geneva, sans-serif;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.BillTable td{
+    border-bottom: 2px solid #c9c9c9;
+    padding: 10px;
+}
+
+th{
+    background-color: #eee;
+    padding: 10px;
+}
+
+.InviceTopic{
+    font-size:25px;
+    font-family:Verdana, Geneva, sans-serif;
+    padding: 15px;
+    background-color: #eee;
+}
+
+.CompnyName, .UsersName{
+    font-size:20px;
+}
+
+.CompnyAdd, .UsersAdd{
+    font-size:12px;
+}
+
+.InvoiceDetails{
+    font-size:14px;
+}
+
+pre{
+    font-family:Verdana, Geneva, sans-serif;
+}
