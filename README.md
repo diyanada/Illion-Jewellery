@@ -94,3 +94,5 @@ Site styles to look at are
 - http://www.cartier.co.uk/
 - http://www.harrywinston.com/en
 - https://www.graffdiamonds.com/
+
+### Copyright © All Rights Reserved Lioanheart Solutions PLC 
