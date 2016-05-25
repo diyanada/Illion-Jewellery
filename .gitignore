@@ -1,0 +1,5 @@
+# Database connection file
+owsh_secret.php
+
+# .htaccess files
+*.htaccess
